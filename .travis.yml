@@ -1,0 +1,22 @@
+language: node_js
+branches:
+  only:
+    - master
+cache:
+  yarn: true
+  directories:
+    - node_modules
+notifications:
+  email: false
+node_js:
+  - node
+before_install:
+  - cd slides-cli
+  - npm ci
+  - cd ..
+  - npm ci
+  - npm link
+script:
+  - slides build-all
+after_success:
+  - slides deploy
