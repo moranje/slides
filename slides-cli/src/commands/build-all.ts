@@ -55,7 +55,7 @@ export default class BuildAll extends Command {
       '  <body>',
       ...projects.map(project => {
         return [
-          `    <a href="${project}/index.html">`,
+          `    <a href="${project}">`,
           '      <div class="card" >',
           `        <h1 class="title">${project.toLocaleUpperCase()}</h1>`,
           '      </div>',
