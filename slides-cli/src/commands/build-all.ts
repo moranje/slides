@@ -31,7 +31,8 @@ export default class BuildAll extends Command {
     ].join('\n')
 
     shell.exec('npx reveal-md presentations/ --static dist')
-    shell.exec(`echo "${html}" > presentations/index.html`, {
+    shell.rm('dist/index.html')
+    shell.exec(`echo "${html}" > dist/index.html`, {
       silent: true
     })
 
