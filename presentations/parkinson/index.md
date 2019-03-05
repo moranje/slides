@@ -5,7 +5,6 @@ date: 18 Maart, 2018
 'verticalSeparator': '---v'
 theme: 'moon'
 revealOptions:
-  # none/fade/slide/convex/concave/zoom
   controls: true
   transition: 'slide'
   slideNumber: true
@@ -18,6 +17,18 @@ revealOptions:
 # Parkinson
 
 MARTIEN ORANJE
+
+---
+
+## Geschiedenis
+
+> Ontdekking. Symptomen. Plaatje paper.
+
+---
+
+## Encephalitis lethargica
+
+> Oliver Sacks Awakenings
 
 ---
 
