@@ -4,6 +4,10 @@
   "description": "A bunch of slide shows",
   "author": "Martien Oranje <martien@thedigitaldoctor.net> (http://www.thedigitaldoctor.net)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moranje/slides.git"
+  },
   "bin": {
     "slides": "./slides-cli/bin/run"
   },
