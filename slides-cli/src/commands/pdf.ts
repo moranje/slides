@@ -10,9 +10,9 @@ export default class PDF extends Command {
     const {args} = this.parse(PDF)
 
     shell.exec(
-      `npx reveal-md ../${args.project}/index.md --print ../${args.project}/${
+      `npx reveal-md presentations/${
         args.project
-      }.pdf`
+      }/index.md --print presentations/${args.project}/${args.project}.pdf`
     )
 
     this.log('PDF created')
