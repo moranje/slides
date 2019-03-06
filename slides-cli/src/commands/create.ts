@@ -17,7 +17,7 @@ export default class Create extends Command {
         .toLowerCase()}`,
       'author: Martien Oranje',
       `date: ${date.getDate()}-${date.getMonth() + 1}-${date.getFullYear()}`,
-      "verticalSeparator: '---v'",
+      "verticalSeparator: '==='",
       "theme: 'moon'",
       'revealOptions:',
       '  controls: true',
