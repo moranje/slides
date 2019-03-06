@@ -11,11 +11,7 @@ notifications:
 node_js:
   - node
 before_install:
-  - cd slides-cli
-  - npm ci
-  - cd ..
-  - npm ci
-  - npm link
+  - npm run setup
 script:
   - slides build-all
 after_success:

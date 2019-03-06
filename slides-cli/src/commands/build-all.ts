@@ -8,7 +8,9 @@ export default class BuildAll extends Command {
 
   async run() {
     const getProjects = (path: any) =>
-      readdirSync(path).filter(f => statSync(join(path, f)).isDirectory())
+      readdirSync(path).filter((f: any) =>
+        statSync(join(path, f)).isDirectory()
+      )
     const projects = getProjects('presentations')
     const html = [
       '<!DOCTYPE html>',
