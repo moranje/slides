@@ -7,7 +7,7 @@ export default class BuildAll extends Command {
   static description = 'build all slideshows'
 
   async run() {
-    const getProjects = path =>
+    const getProjects = (path: any) =>
       readdirSync(path).filter(f => statSync(join(path, f)).isDirectory())
     const projects = getProjects('presentations')
     const html = [
@@ -53,7 +53,7 @@ export default class BuildAll extends Command {
       '  </head>',
       '',
       '  <body>',
-      ...projects.map(project => {
+      ...projects.sort().map(project => {
         return [
           `    <a href="${project}">`,
           '      <div class="card" >',
