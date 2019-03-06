@@ -1,8 +1,8 @@
 ---
 title: 'Parkinson'
 author: Martien Oranje
-date: 18 Maart, 2018
-'verticalSeparator': '---v'
+date: 18-03-2018
+'verticalSeparator': '==='
 theme: 'moon'
 revealOptions:
   controls: true
@@ -40,20 +40,37 @@ Note: Inhibitie/disinhibitie
 
 ---
 
-## Pathofysiologie 1
+## Ziektebeloop
 
-> Best quote ever.
+> Vroege, responder en nonresponder, late fase
 
----v
+===
 
-## Pathofysiologie 2
+## Samenwerking
 
-> Best quote ever.
+> Rol van huisarts in samenwerking met parkinsonverpleegkundige en neuroloog. Parkinsonnet
 
 ---
+
+## Medicatie
+
+> Lijst van parkinson indicerende medicatie
+> Lijst van medicatie die niet samen gaat met parkinsonisme
+
+===
 
 ## Delier
 
 > Wat doet Haldol.
 
 > Alternatieven (6,25 mg clozapine)
+
+---
+
+# Hulpmiddelen
+
+> Ergo. Parkinson verpleegkundige
+
+---
+
+## Take home
