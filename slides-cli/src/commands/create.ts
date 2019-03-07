@@ -1,4 +1,5 @@
 import {Command} from '@oclif/command'
+import * as Handlebars from 'handlebars'
 import * as shell from 'shelljs'
 
 export default class Create extends Command {
@@ -8,37 +9,22 @@ export default class Create extends Command {
 
   async run() {
     const {args} = this.parse(Create)
-    const date = new Date()
+    const now = new Date()
 
-    let fileContent = [
-      '---',
-      `title: ${args.project.charAt(0).toUpperCase()}${args.project
-        .slice(1)
-        .toLowerCase()}`,
-      'author: Martien Oranje',
-      `date: ${date.getDate()}-${date.getMonth() + 1}-${date.getFullYear()}`,
-      "verticalSeparator: '==='",
-      "theme: 'moon'",
-      'revealOptions:',
-      '  controls: true',
-      "  transition: 'slide'",
-      '  slideNumber: true',
-      '  history: true',
-      '  overview: true',
-      '  showNotes: false',
-      '  center: true',
-      '---',
-      '',
-      `# ${args.project.charAt(0).toUpperCase()}${args.project
-        .slice(1)
-        .toLowerCase()}`,
-      '',
-      'MARTIEN ORANJE'
-    ].join('\n')
+    let source = shell.cat('slides-cli/src/assets/index-md.hbs').stdout
+    let template = Handlebars.compile(source)
+
+    // Variables
+    let title = `${args.project.charAt(0).toUpperCase()}${args.project
+      .slice(1)
+      .toLowerCase()}`
+    let date = `${now.getDate()}-${now.getMonth() + 1}-${now.getFullYear()}`
 
     shell.mkdir('-p', `presentations/${args.project}`)
     shell.exec(
-      `echo "${fileContent}" > presentations/${args.project}/index.md`,
+      `echo "${template({title, date})}" > presentations/${
+        args.project
+      }/index.md`,
       {
         silent: true
       }

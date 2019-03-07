@@ -1,5 +1,6 @@
 import {Command} from '@oclif/command'
 import {readdirSync, statSync} from 'fs'
+import * as Handlebars from 'handlebars'
 import {join} from 'path'
 import * as shell from 'shelljs'
 
@@ -11,66 +12,16 @@ export default class BuildAll extends Command {
       readdirSync(path).filter((f: any) =>
         statSync(join(path, f)).isDirectory()
       )
-    const projects = getProjects('presentations')
-    const html = [
-      '<!DOCTYPE html>',
-      '<html lang="en">',
-      '  <head>',
-      '    <meta charset="utf-8" />',
-      '    <title>Presentations</title>',
-      '    <link rel="stylesheet" href="/slides/css/theme/moon.css" id="theme" />',
-      '    <style type="text/css">',
-      '      body {',
-      '        margin: 1em;',
-      '      }',
-      '      a {',
-      '        text-decoration: none;',
-      '      }',
-      '      .card {',
-      '        width: 300px;',
-      '        height: 200px;',
-      '        border-radius: 6px;',
-      '        box-shadow: 0 6px 16px rgba(0,0,0,0.15);',
-      '        cursor: pointer;',
-      '        float: left;',
-      '        margin: 10px;',
-      '      }',
-      '      .card h1 {',
-      '        width: 100%;',
-      '        height: 100%;',
-      '        margin: 0;',
-      '        border-radius: 6px;',
-      '        background: #f7f7f7;',
-      '        display: -ms-flexbox;',
-      '        display: box;',
-      '        display: flex;',
-      '        -o-box-pack: center;',
-      '        justify-content: center;',
-      '        -o-box-align: center;',
-      '        align-items: center;',
-      '        -webkit-font-smoothing: antialiased;',
-      '        color: #47525d;',
-      '      }',
-      '    </style>',
-      '  </head>',
-      '',
-      '  <body>',
-      ...projects.sort().map(project => {
-        return [
-          `    <a href="${project}">`,
-          '      <div class="card" >',
-          `        <h1 class="title">${project.toLocaleUpperCase()}</h1>`,
-          '      </div>',
-          '    </a>'
-        ].join('\n')
-      }),
-      '  </body>',
-      '</html>'
-    ].join('\n')
+    const list = getProjects('presentations')
+    let source = shell.cat('slides-cli/src/assets/preview.hbs').stdout
+    let template = Handlebars.compile(source)
+    let projects = list
+      .sort()
+      .map(project => ({name: project.toLocaleUpperCase(), url: project}))
 
-    shell.exec('npx reveal-md presentations/ --static dist')
+
     shell.rm('dist/index.html')
-    shell.exec(`echo "${html}" > dist/index.html`, {
+    shell.exec(`echo "${template({projects})}" > dist/index.html`, {
       silent: true
     })
 

@@ -16,6 +16,7 @@
     "preinstall": "cd slides-cli && npm install && cd .."
   },
   "devDependencies": {
+    "handlebars": "4.1.0",
     "nodemon": "1.18.10",
     "oclif": "1.12.10",
     "reveal-md": "3.0.1",
