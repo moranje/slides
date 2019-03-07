@@ -19,6 +19,12 @@ export default class BuildAll extends Command {
       .sort()
       .map(project => ({name: project.toLocaleUpperCase(), url: project}))
 
+    shell.mkdir('-p', 'dist/slides')
+    shell.cp(
+      'slides-cli/src/assets/slides.css',
+      'dist/slides/slides.css'
+    )
+    shell.exec('npx reveal-md presentations/ --css=dist/slides/slides.css --static dist')
 
     shell.rm('dist/index.html')
     shell.exec(`echo "${template({projects})}" > dist/index.html`, {

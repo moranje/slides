@@ -9,11 +9,21 @@ export default class Build extends Command {
   async run() {
     const {args} = this.parse(Build)
 
-    shell.exec(
-      `npx nodemon -w presentations/${args.project} -e md -x \"npx reveal-md ${
-        args.project
-      }/index.md --static presentations/${args.project}/dist\" --ignore dist/`
+    shell.mkdir('-p', 'dist/slides')
+    shell.cp(
+      'slides-cli/src/assets/slides.css',
+      'dist/slides/slides.css'
     )
+    shell.exec(
+      `npx nodemon -w presentations/${
+        args.project
+      } -e md -x \"npx reveal-md presentations/${
+        args.project
+      }/index.md --css=dist/slides/slides.css --static presentations/${
+        args.project
+      }/dist\" --ignore presentations/${args.project}/dist/`
+    )
+    shell.rm(`presentations/${args.project}dist/index.html`)
 
     this.warn('Something went wrong')
   }
