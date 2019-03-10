@@ -268,7 +268,19 @@ li:before {
   vertical-align: top;
 }
 
-.columns {
+/* Grid system: http://sherbrow.github.io/ungrid/flex.html */
+@media (min-width: 30em) {
+  .row {
+    display: flex !important;
+    flex-wrap: wrap;
+  }
+
+  .col {
+    flex-grow: 1;
+  }
+}
+
+/* .columns {
   display: table;
   table-layout: fixed;
   width: 100%;
@@ -284,7 +296,7 @@ li:before {
 
 .columns .column:first-of-type {
   padding-left: 0;
-}
+} */
 
 /*********************************************
  * LINKS
