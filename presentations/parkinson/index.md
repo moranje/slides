@@ -23,24 +23,49 @@ MARTIEN ORANJE
 
 ---
 
+## Leerdoelen
+
+- Herkenning van de ziekte
+- Signaleren van problemen tijdens de ziekte
+- Kennis van hulp en hulpmiddelen
+
+---
+
 ## Geschiedenis
 
 > Ontdekking. Symptomen. Plaatje paper.
 
 ---
 
-## Encephalitis lethargica
-
-> Oliver Sacks Awakenings
-
----
-
 ## Pathofysiologie
 
-> Inhibitie/disinhibitie
+> Neurodegeneratieve aandoening
+
+- Klinische diagnose
+- Typische en atypische vormen
+- Verlies van neuronen
+
+===
+
+## Verlies van dopamine
+
+![](images/dopamine.jpg)
+
+===
+
+## Pathways basale ganglia
+
+<!-- .element: class="col" style="flex: 0 100%" -->
+
+![](images/basale_ganglia.jpg) <!-- .element class="row" -->
+
+- Verlies van dopamine neuronen mn in basale ganglia mn substantia nigra
+- Betrokken in Direct Pathway (beweging initieren) en de Indirect Pathway (overtollige beweging onderdrukken)
+- Stapeling van Lewy body deeltjes in het stroma van de neuronen, belangrijkste vinding in post mortem studies
+-
 
 Note:
-Inhibitie/disinhibitie
+Basale ganglia groep kernen samen verandwoordelijk voor oa aansturing van bewegingen (soort buffer die zorgt voor nauwkeurige starten en remmen van bewegingen)
 
 ---
 
@@ -51,10 +76,24 @@ Inhibitie/disinhibitie
 Note:
 Vraag tremoren
 Vraag respons fluctuaties
+Vraag revesibel parkinsonisme
+
+Note:
+Vragen uit PIN
 
 ---
 
-## Typische symptomen
+# Het eerste contact
+
+## Casus
+
+Note:
+
+PIN casus bewerken
+
+---
+
+## Symptomen
 
 > Definitie. Uitleg bij ontstaan van een symptoom.
 
@@ -91,6 +130,9 @@ Herkenning van aan parkinson gerelateerde klachten en symptomen
 
 Begeleiden van patient en mantelzorger
 
+Note:
+Zorgverleners op ParkinsonNet
+
 ===
 
 Controle
@@ -108,6 +150,13 @@ Note:
 
 ===
 
+# Dementie & Depressie
+
+- Psychologuische begeleiding
+- MMSE
+
+===
+
 <!-- .slide: data-background="images/samenwerking.png" data-background-size="contain" -->
 
 ===
@@ -117,6 +166,23 @@ Note:
 > Wat vertel je je patient
 
 ---
+
+# Onder behandeling
+
+---
+
+## Vervolg
+
+---
+
+## Controle
+
+---
+
+## behandeling
+
+---
+
 <!-- .slide: class="row" -->
 
 ## Medicatie
@@ -153,6 +219,12 @@ Overleggen met neuroloog frequentie van controles te bespreken
 - Ergo
 - Parkinson verpleegkundige
 
+Note:
+
+- Foto tremor lepel
+- Apps
+- Depressie
+
 ---
 
 ## Take home
@@ -160,9 +232,12 @@ Overleggen met neuroloog frequentie van controles te bespreken
 ---
 
 ### Referenties
+
 <small>
 
 1. [NHG-standaard Ziekte van Parkinson](https://www.nhg.org/standaarden/volledig/nhg-standaard-ziekte-van-parkinson)
-2. test
+2. Neurology: A Queen Square Textbook, Second edition
+3. NHG nascholing. [PIN Ziekte van Parkinson](https://portal.nhg.org/course/view.php?id=293)
+4. Khan Academy: [Parkinsons Disease](https://www.khanacademy.org/science/health-and-medicine/nervous-system-diseases/parkinsons-disease)
 
 </small>
