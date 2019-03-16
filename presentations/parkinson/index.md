@@ -31,12 +31,6 @@ MARTIEN ORANJE
 
 ---
 
-## Geschiedenis
-
-> Ontdekking. Symptomen. Plaatje paper.
-
----
-
 ## Pathofysiologie
 
 > Neurodegeneratieve aandoening
@@ -45,41 +39,111 @@ MARTIEN ORANJE
 - Typische en atypische vormen
 - Verlies van neuronen
 
+Note:
+
+- Geen gouden standaard
+
 ===
 
 ## Verlies van dopamine
 
-![](images/dopamine.jpg)
+![](images/dopamine.jpg) <!-- .element height="500px" -->
+
+Note:
+
+- Klachten treden op ongeveer 80% reductie van de dopamine productie
 
 ===
 
 ## Pathways basale ganglia
 
-<!-- .element: class="col" style="flex: 0 100%" -->
-
-![](images/basale_ganglia.jpg) <!-- .element class="row" -->
-
-- Verlies van dopamine neuronen mn in basale ganglia mn substantia nigra
-- Betrokken in Direct Pathway (beweging initieren) en de Indirect Pathway (overtollige beweging onderdrukken)
-- Stapeling van Lewy body deeltjes in het stroma van de neuronen, belangrijkste vinding in post mortem studies
--
+![](images/basale_ganglia.jpg) <!-- .element height="500px" -->
 
 Note:
 Basale ganglia groep kernen samen verandwoordelijk voor oa aansturing van bewegingen (soort buffer die zorgt voor nauwkeurige starten en remmen van bewegingen)
+
+- Wijs aan waar het (dopaminerge) probleem zit
+- De dopamine afname wordt veroorzaakt door verlies van neuronen in de substantia nigra
+- Directe pathway zorgt voor het initieren van de beweging
+- Indirectie pathway onderdukt de (overtollige) bewegingen
+
+===
+
+## Andere problemen
+
+- Stapeling van Lewy body deeltjes
+- Andere neurotransmitters (serotonine, noradrenaline, acetylcholine)
+- Tractus olfactorius: reuk
+
+Note:
+
+- Lewy body deeltjes in het stroma van de neuronen in de substantia nigra: belangrijkste vinding in post mortem studies. Functie hiervan is niet bekend.
+- Serotine disbalans zorg voor een gestoord slaap waak ritme
+
+---
+
+## Epidemiologie
+
+- Prevalantie van _18 op 1000_ wereldwijd
+- Incidentie _0,2_ tot _0,3_ per 1000 per jaar in Nederland
+- Indicentie stijgt met leeftijd gemiddeld _60 jaar_
+- _Net iets meer_ mannen dan vrouwen (1,8 vs 1,6 per duizen)
+- Minder dan _5%_ krijgt het voor leeftijd _40 jaar_
+
+Note:
+
+- Gemiddeld ziet de huisarts met een normpraktijk 1 nieuwe patiënt met de ziekte van Parkinson per 1 à 2 jaar
+- Ongeveer 80% van de patiënten met de ziekte van Parkinson is ouder dan 65 jaar. Door vergrijzing zal de prevalentie toenemen.
 
 ---
 
 ## Quiz
 
-> Verschil tussen bepaalde symptomen
+**Juist** is _groen_ <!-- .element: style="color: green" -->
+
+**Onjuist** is _rood_ <!-- .element: style="color: red" -->
 
 Note:
 Vraag tremoren
 Vraag respons fluctuaties
 Vraag revesibel parkinsonisme
 
-Note:
+Twee keuze mogelijkheden
 Vragen uit PIN
+
+===
+
+## Vraag 1
+
+![](images/essentiele_tremor.gif)
+
+_Deze tremor past bij de ziekte van Parkinson_
+
+Note:
+
+[Business Insider](https://www.businessinsider.com.au/high-intensity-frequency-ultrasound-essential-tremor-2016-8)
+
+===
+
+## Vraag 2
+
+_De ziekte van Parkison presenteerd zich meestal met bilaterale symptomen_
+
+===
+
+## Vraag 3
+
+_Bij verdenking dementie bij Parkinson wordt gebruik gemaakt van de MMSE_
+
+===
+
+## Vraag 4
+
+_Een impulscontrole stoornis komt vaker voor bij patienten < 45 jaar met Parkinson_
+
+Note:
+
+Een impulscontrolestoornis komt voor bij ongeveer 10% van de patiënten met de ziekte van Parkinson. Vooral jongere patiënten (< 45 jaar) hebben een verhoogd risico op het ontwikkelen van een impulscontrolestoornis, wat zich meestal uit in een verslaving op het gebied van gokken, seksualiteit, winkelen, eten of het compulsief gebruik van dopaminerge medicatie (dopaminedysregulatiesyndroom). 15) Een impulscontrolestoornis kan ook pas na jarenlang gebruik van dopamine-agonisten ontstaan. Dit gaat vaak gepaard met gevoelens van schuld en schaamte en wordt weinig spontaan gemeld.
 
 ---
 
