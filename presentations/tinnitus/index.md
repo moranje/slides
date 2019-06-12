@@ -36,7 +36,7 @@ FRISO & MARTIEN
 - Brughoektumor
 - Gespecialiseerde klinieken
 
-<!-- .element: style="font-size: 80%" -->
+<!-- .element: style="font-size: 70%" -->
 
 ---
 
@@ -74,6 +74,8 @@ Bronnen:  Oliver Sacks: Musicophilia
 
 - 1 miljoen patienten in NL!
 
+<!-- .element: style="font-size: 90%" -->
+
 ---
 
 ## Fenomenologie
@@ -83,6 +85,8 @@ Bronnen:  Oliver Sacks: Musicophilia
 - Omschrijving
 
 > Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend
+
+<!-- .element: style="font-size: 90%" -->
 
 ---
 
@@ -100,6 +104,8 @@ Bronnen:  Oliver Sacks: Musicophilia
   - Meningitis
   - Bof
 
+<!-- .element: style="font-size: 70%" -->
+
 ===
 
 ## Anamnese
@@ -113,6 +119,8 @@ Bronnen:  Oliver Sacks: Musicophilia
 - Kinderen:
   - Zwangerschap (CMV of rubella)
   - Uitlsag gehoorscreening
+
+<!-- .element: style="font-size: 70%" -->
 
 ---
 
@@ -138,6 +146,8 @@ Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013
 - aanwezigheid van vloeistofspiegel of luchtbel(len) achter trommelvlies;
 - retroauriculaire regio: littekens, roodheid en zwelling.
 
+<!-- .element: style="font-size: 80%" -->
+
 ===
 
 ## Lichamelijk onderzoek
@@ -154,11 +164,11 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 
 ===
 
-<!-- .slide: data-background="images/rinne-en-weber.png" data-background-size="contain" -->
+<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background="images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
+<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
 
 ---
 
@@ -187,7 +197,7 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 ===
 
-<!-- .slide: data-background="images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
+<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
 
 ---
 
@@ -200,6 +210,8 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 - Chemotherapie
 - Anti-malaria medicatie
 - NSAID
+
+<!-- .element: style="font-size: 80%" -->
 
 Note:
 
@@ -261,11 +273,11 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 
 ===
 
-<!-- .slide: data-background="images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
+<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
 
 ===
 
-<!-- .slide: data-background="images/stroomdiagram-tni.png" data-background-size="contain" -->
+<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/stroomdiagram-tni.png" data-background-size="contain" -->
 
 ---
 
@@ -322,12 +334,10 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 ## Uitleg
 
 - Meestal geen curatieve behandeling
-
 - Minder als:
   - Geconcentreerd op werk of hobby
   - Intensief sporten
   - Ontspanning (bv yoga)
-
 - Andere suggesties
   - Muziek
   - Andere achtergrondsgeluiden (klok, wind, zee of verkeer)
@@ -337,7 +347,6 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 - Medicijn bijwerking
 - Gehoortoestel
 - ‘Tinnititus hoortoestel’
-
 - Werkenden
   - Bespreek gehoorproblemen met leidinggevende en collegas
   - Bedrijfsarts
