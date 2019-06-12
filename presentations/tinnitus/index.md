@@ -13,7 +13,11 @@ revealOptions:
   center: true
 ---
 
-# Tinnitus
+# Tinnitus Aurium
+
+> Het rinkelen der oren
+
+*Sinds 1650 voor Christus* <!-- .element: style="font-size: 70%" -->
 
 FRISO & MARTIEN
 
@@ -23,7 +27,7 @@ FRISO & MARTIEN
 
 - Lichamelijk onderzoek
 - Alarmsymptomen
-- Dd & prognose
+- Doofheid & prognose
 - Uitleg aan pt
 - Zin en onzin aanvullend onderzoek
 - Effectieve behandelopties
@@ -32,9 +36,16 @@ FRISO & MARTIEN
 - Brughoektumor
 - Gespecialiseerde klinieken
 
+<!-- .element: style="font-size: 80%" -->
+
 ---
 
 ## Leerdoelen
+
+- Wat vraag je
+- Wat doe je
+- Wat vertel je een patiënt
+- *Alarmsymptomen*
 
 ---
 
@@ -43,6 +54,14 @@ FRISO & MARTIEN
 ---
 
 ## Uitstapje: Charles Bonnet
+
+Tinnitus: non-verbale akoestische hallucinatie
+
+Note:
+
+Overactieve delen van de hersenen in het gehoorgebied geven continu signalen. Deze veroorzaken het "fantoomgeluid".
+
+Bronnen:  Oliver Sacks: Musicophilia
 
 ---
 
@@ -57,10 +76,13 @@ FRISO & MARTIEN
 
 ---
 
-## Soorten tinnitus
+## Fenomenologie
 
-- Objectieve tinnitus;
-- Subjectieve tinnitus.
+- Objectieve tinnitus
+- Subjectieve tinnitus
+- Omschrijving
+
+> Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend
 
 ---
 
@@ -98,8 +120,11 @@ FRISO & MARTIEN
 
 - TQ
 - THI
+- Gestandaardiseerde tinnitusvragenlijst
 
 Note:
+
+Meer KNO?
 
 Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/90/Handleiding%20Tinnitus%20Questionnaire.html), [THI](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/110/Tinnitus%20Handicap%20Inventory%20(THI).html)
 
@@ -119,25 +144,17 @@ Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013
 
 - Bloeddruk
 - Auscultatie carotiden en rondom oor (pulsatiele tinnitus)
+- Otoscopie
+- Rinne & Weber
+- Fluisterspraaktest
 
----
+Note:
 
-## Differentiaal diagnose
+Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om liplezen te voorkomen) per oor zes combinaties van drie cijfers en letters, terwijl je het andere oor afdekt. Als je meer dan vier combinaties niet goed herhaalt, zal de huisarts verdere actie ondernemen. Deze test is geschikt voor kinderen vanaf 6 jaar
 
-Presbiacusis
-Otitis media
-Vestibulitis
-Polsynchrone pulsatiele tinnitus
-Menière
-Otosclerose
-Migraine
-Brughoek tumor
-Overdosis salicylaten
-Glomus tumor
-MS
-CVA
-Veneuze/ arteriele malformatie
-...
+===
+
+<!-- .slide: data-background="images/rinne-en-weber.png" data-background-size="contain" -->
 
 ---
 
@@ -147,8 +164,9 @@ Veneuze/ arteriele malformatie
 
 ## Alarmsymptomen
 
-- Unilaterale (niet-pulsatiele) tinnitus en symmetrisch perceptief gehoorverlies **met bijkomende klachten**
-- Polsynchrone pulsatiele tinnitus*
+- Pulsatiel/synchroniciteit met hartslag of ademhaling (denk aan vaatmalformatie);
+- Zijdigheid (denk aan intracraniële of otologische pathologie);
+- Constant of intermitterend (klikken) (denk aan musculaire pathologie).
 
 Note:
 
@@ -167,6 +185,34 @@ Note:
 
 Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/beeldvormend_onderzoek_bij_tinnitus/polssynchrone_pulsatiele_tinnitus.html)
 
+===
+
+<!-- .slide: data-background="images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
+
+---
+
+## Medicatie
+
+- Acetylsalicylzuur
+- Erythromycine (antibiotica)
+- Aminoglycosiden (antibiotica per infuus, niet die in oordruppels zitten)
+- Lisdiuretica (furosemide)
+- Chemotherapie
+- Anti-malaria medicatie
+- NSAID
+
+Note:
+
+Bronnen: Thuisarts.nl, [stichting hoormij](https://www.stichtinghoormij.nl/items/nl-nl/faq/voor-iedereen/welke-medicijnen-zijn-slecht-voor-tinnitus-bijwerkingen)
+
+---
+
+## Wat kun je zelf
+
+- Cerumenlavage
+- (Otrivin bij) verkoudheid
+- Medicatie
+
 ---
 
 ## Wie verwijzen
@@ -176,6 +222,13 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
   - ≥6 jaar audiometrie afwijkend bij verlies van ≥ 30 dB bij 1000, 2000 en 4000Hz
 
 - Lab op indicatie (anemie of stress): Hb, TSH
+
+---
+
+## Wie verwijzen
+
+- Bij lijdensdruk (KNO/Audiologisch centrum met tinnitus team)
+- Bij vermoeden op andere oorzaak
 
 ===
 
@@ -206,16 +259,24 @@ Note:
 
 Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20Sorgdrager%20en%20Schriemer%20webversie.pdf)
 
+===
+
+<!-- .slide: data-background="images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
+
+===
+
+<!-- .slide: data-background="images/stroomdiagram-tni.png" data-background-size="contain" -->
+
 ---
 
 ## Behandelingen
 
 - TRT
-- CGT
+- Tinnitis specieke CGT of SOLK CGT
 - Geluidsverrijkende therapie
 - Cochleaire implantatie
-- rTMS
-- TDCS
+- rTMS -> neen
+- TDCS -> niet doen
 
 Note:
 
@@ -251,13 +312,22 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 ---
 
+## Onderzoek
+
+- Cochrane
+- [TNI](https://tinnitusresearch.net/)
+
+---
+
 ## Uitleg
 
 - Meestal geen curatieve behandeling
+
 - Minder als:
   - Geconcentreerd op werk of hobby
   - Intensief sporten
   - Ontspanning (bv yoga)
+
 - Andere suggesties
   - Muziek
   - Andere achtergrondsgeluiden (klok, wind, zee of verkeer)
@@ -274,8 +344,13 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 Note:
 
-- Cochrane
-- Behandelingen + klinieken
+===
+
+## Patienteninformatie
+
+- [Thuisarts](https://www.thuisarts.nl/oorsuizen/ik-heb-last-van-oorsuizen) / [KNO.nl](https://www.kno.nl/patienten-informatie/oor/oorsuizen/)
+- Stichting Hoormij [Tinnitis FAQ](https://www.stichtinghoormij.nl/nl-nl/tinnitus/tinnitus-vraagbaak/algemene-vragen-over-tinnitus)
+- 0800-TINNITUS (Op werkdagen tussen 9.00 - 12.00)
 
 ---
 
@@ -286,3 +361,16 @@ Note:
 ---
 
 ## Take home
+
+- Ook denken aan het tegelijkertijd bestaan van slechthorendheid.
+- Medicatie
+
+---
+
+## Literatuur
+
+- Richtlijn Tinnitus (2016)
+- Richtlijjnendatabase
+- NVAB
+
+<!-- .element: style="font-size: 65%" -->
