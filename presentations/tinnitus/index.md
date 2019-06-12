@@ -36,7 +36,7 @@ FRISO & MARTIEN
 - Brughoektumor
 - Gespecialiseerde klinieken
 
-<!-- .element: style="font-size: 70%" -->
+<!-- .element: style="font-size: 60%" -->
 
 ---
 
@@ -71,7 +71,6 @@ Bronnen:  Oliver Sacks: Musicophilia
   - 80,4% geen tinnitus
   - 14,8% milde tinnitus
   - 4,8% ernstige tinnitus
-
 - 1 miljoen patienten in NL!
 
 <!-- .element: style="font-size: 90%" -->
@@ -86,7 +85,7 @@ Bronnen:  Oliver Sacks: Musicophilia
 
 > Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend
 
-<!-- .element: style="font-size: 90%" -->
+<!-- .element: style="font-size: 75%" -->
 
 ---
 
@@ -96,11 +95,9 @@ Bronnen:  Oliver Sacks: Musicophilia
 - Enkel- of dubbelzijdig
 - Oorpijn, jeuk, otorroe of verstopt gevoel
 - Voorgeschiedenis
-  - BLWI
-  - Otitiden
-  - verstopte oren
-  - Oorchi-
-  - tv perforaties
+  - BLWI/ Otitiden/ verstopte oren
+  - Oorchirurgie
+  - TV perforaties
   - Meningitis
   - Bof
 
@@ -164,11 +161,11 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 
 ===
 
-<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
 
 ---
 
@@ -197,7 +194,7 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 ===
 
-<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
 
 ---
 
@@ -273,11 +270,11 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 
 ===
 
-<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
 
 ===
 
-<!-- .slide: data-background="/moranje/slides/raw/master/presentations/tinnitus/images/stroomdiagram-tni.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/stroomdiagram-tni.png" data-background-size="contain" -->
 
 ---
 
