@@ -239,8 +239,6 @@ Bronnen: Thuisarts.nl, [stichting hoormij](https://www.stichtinghoormij.nl/items
 - Bij lijdensdruk (KNO/Audiologisch centrum met tinnitus team)
 - Bij vermoeden op andere oorzaak
 
-===
-
 Note:
 
 Verwijzing naar een Audiologisch Centrumvbij lijdensdruk ten gevolge van tinnitus bestaat (indicatie: TQ>30, THI>36).
