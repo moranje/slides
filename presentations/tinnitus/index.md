@@ -161,11 +161,11 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 
 ===
 
-<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
 
 ---
 
-<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
 
 ---
 
@@ -194,7 +194,7 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 ===
 
-<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/andere-oorzaken-tinnitus.png" data-background-size="contain" -->
 
 ---
 
@@ -270,11 +270,11 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 
 ===
 
-<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/hulpverlening-stroomdiagram.png" data-background-size="contain" -->
 
 ===
 
-<!-- .slide: data-background="https://github.com/moranje/slides/blob/master/presentations/tinnitus/images/stroomdiagram-tni.png" data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/stroomdiagram-tni.png" data-background-size="contain" -->
 
 ---
 
