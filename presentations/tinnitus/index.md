@@ -206,7 +206,7 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 - Acuut perceptief gehoorverlies
 - Trauma voorafgaand aan klachten (labyrint, trommelvlies)
 
-BRON: 5 <!-- element: style="font-size: 10%" -->
+<!-- .element: style="font-size: 80%" -->
 
 Note:
 
@@ -320,6 +320,8 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 - TDCS -> niet doen <sup>6</sup>
 - Adviseer geen alternatieve therapieën
 
+<!-- .element: style="font-size: 80%" -->
+
 Note:
 
 TRT
@@ -371,7 +373,7 @@ Adviseer geen alternatieve therapieën, zoals Gingko biloba, acupunctuur, auditi
   - Andere achtergrondsgeluiden (klok, wind, zee of verkeer)
 - Geen alternatieve geneeskunde
 
-<!-- .element: style="font-size: 80%" -->
+<!-- .element: style="font-size: 60%" -->
 
 ===
 
