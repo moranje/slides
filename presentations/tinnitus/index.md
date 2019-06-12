@@ -2,10 +2,10 @@
 title: Tinnitus
 author: Martien Oranje
 date: 5-6-2019
-verticalSeparator: '==='
+verticalSeparator: "==="
 revealOptions:
   controls: true
-  transition: 'slide'
+  transition: "slide"
   slideNumber: true
   history: true
   overview: true
@@ -17,7 +17,7 @@ revealOptions:
 
 > Het rinkelen der oren
 
-*Sinds 1650 voor Christus* <!-- .element: style="font-size: 70%" -->
+_Sinds 1650 voor Christus_ <sup>1</sup> <!-- .element: style="font-size: 70%" -->
 
 FRISO & MARTIEN
 
@@ -28,7 +28,7 @@ FRISO & MARTIEN
 - Lichamelijk onderzoek
 - Alarmsymptomen
 - Doofheid & prognose
-- Uitleg aan pt
+- Uitleg aan patient
 - Zin en onzin aanvullend onderzoek
 - Effectieve behandelopties
 - Verwijzing KNO
@@ -45,11 +45,15 @@ FRISO & MARTIEN
 - Wat vraag je
 - Wat doe je
 - Wat vertel je een patiënt
-- *Alarmsymptomen*
+- _Alarmsymptomen_
 
 ---
 
 <!-- .slide: data-background-iframe="https://www.youtube-nocookie.com/embed/SRqgNAqACfw" data-background-interactive -->
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/anatomie-schade.png" data-background-size="contain" -->
 
 ---
 
@@ -61,19 +65,37 @@ Note:
 
 Overactieve delen van de hersenen in het gehoorgebied geven continu signalen. Deze veroorzaken het "fantoomgeluid".
 
-Bronnen:  Oliver Sacks: Musicophilia
+Bronnen: Oliver Sacks - Musicophilia
 
 ---
 
 ## Blue mountains hearing study
 
-- Australie 2015, 1995 pt 55 jr en ouder (1156v en 859m), gem lft 69,8jr
+- Australie 2015, 1995 pt 55 jr en ouder (1156v en 859m), gem lft 69,8jr <sup>4</sup>
   - 80,4% geen tinnitus
   - 14,8% milde tinnitus
   - 4,8% ernstige tinnitus
 - 1 miljoen patienten in NL!
 
 <!-- .element: style="font-size: 90%" -->
+
+===
+
+## Incidentie en prevalentie (Nivel, 2017)
+
+| Incidentie | Prevalentie |
+| ---------- | ----------- |
+| 4,3        | 6,7         |
+
+*per 1000 patiëntjaren* <sup>5</sup>
+
+- 9 patienten krijgen het
+- 14 patienten hebben het
+
+Note:
+
+Incidentie: 17325200 / 1000 * 4,3 = 74,498
+Prevalentie: 17325200 / 1000 * 6,7 = 116079
 
 ---
 
@@ -83,9 +105,13 @@ Bronnen:  Oliver Sacks: Musicophilia
 - Subjectieve tinnitus
 - Omschrijving
 
-> Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend
+> Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend <sup>6</sup>
 
 <!-- .element: style="font-size: 75%" -->
+
+Note:
+
+Objectief: Hierbij valt te denken aan een geluid van cardiovasculaire, musculaire, dentogene- of arthrogene origine.
 
 ---
 
@@ -125,13 +151,11 @@ Bronnen:  Oliver Sacks: Musicophilia
 
 - TQ
 - THI
-- Gestandaardiseerde tinnitusvragenlijst
+- Gestandaardiseerde tinnitusvragenlijst <sup>6</sup>
 
 Note:
 
-Meer KNO?
-
-Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/90/Handleiding%20Tinnitus%20Questionnaire.html), [THI](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/110/Tinnitus%20Handicap%20Inventory%20(THI).html)
+Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/90/Handleiding%20Tinnitus%20Questionnaire.html), [THI](<https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013679/1/110/Tinnitus%20Handicap%20Inventory%20(THI).html>)
 
 ---
 
@@ -145,12 +169,16 @@ Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013
 
 <!-- .element: style="font-size: 80%" -->
 
+Note:
+
+Skip?
+
 ===
 
 ## Lichamelijk onderzoek
 
 - Bloeddruk
-- Auscultatie carotiden en rondom oor (pulsatiele tinnitus)
+- Auscultatie carotiden en rondom oor (bij PPS tinnitus)
 - Otoscopie
 - Rinne & Weber
 - Fluisterspraaktest
@@ -171,20 +199,25 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 
 ## Alarmsymptomen
 
-- Pulsatiel/synchroniciteit met hartslag of ademhaling (denk aan vaatmalformatie);
-- Zijdigheid (denk aan intracraniële of otologische pathologie);
-- Constant of intermitterend (klikken) (denk aan musculaire pathologie).
+- Pulsatiel/synchroniciteit met hartslag of ademhaling (denk aan vaatmalformatie)
+- Zijdigheid (denk aan intracraniële of otologische pathologie)
+- Vertigo (Brughoektumor)
+- Uitval (IIH, hersentumoren)
+- Acuut perceptief gehoorverlies
+- Trauma voorafgaand aan klachten (labyrint, trommelvlies)
+
+BRON: 5 <!-- element: style="font-size: 10%" -->
 
 Note:
 
-*Overweeg beeldvorming van de brughoek bij een patiënt met unilaterale (niet-pulsatiele) tinnitus en symmetrisch perceptief gehoorverlies wanneer er sprake is van bijkomende symptomen*
+_Overweeg beeldvorming van de brughoek bij een patiënt met unilaterale (niet-pulsatiele) tinnitus en symmetrisch perceptief gehoorverlies wanneer er sprake is van bijkomende symptomen_
 
-- duizeligheid;
-- aandoeningen van de aangezichtszenuw;
-- ipsilaterale aangezichtspijn of gevoelsstoornissen;
-- andere neurologische symptomen.
+- duizeligheid
+- aandoeningen van de aangezichtszenuw
+- ipsilaterale aangezichtspijn of gevoelsstoornissen
+- andere neurologische symptomen
 
-*Polsynchrone pulsatiele tinnitus*
+_Polsynchrone pulsatiele tinnitus_
 
 - klachten passend bij verhoogde intracraniële druk: hoofdpijn, visusafwijking, misselijkheid;
 - objectief hoorbare pulsatiele tinnitus;
@@ -202,17 +235,15 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 - Acetylsalicylzuur
 - Erythromycine (antibiotica)
-- Aminoglycosiden (antibiotica per infuus, niet die in oordruppels zitten)
+- Aminoglycosiden (niet die in oordruppels zitten)
 - Lisdiuretica (furosemide)
+- Amlodipine
+- Atorvastatine
+- oa Lariam
 - Chemotherapie
-- Anti-malaria medicatie
-- NSAID
+- NSAID (Naproxen, Diclofenac, Arcoxia, Arthrotec) <sup>[8](https://www.kno-arts-amsterdam.nl/index.php/folders/bijwerkingen-medicijnen/medicijnen-met-oor-bijwerkingen/)</sup>
 
-<!-- .element: style="font-size: 80%" -->
-
-Note:
-
-Bronnen: Thuisarts.nl, [stichting hoormij](https://www.stichtinghoormij.nl/items/nl-nl/faq/voor-iedereen/welke-medicijnen-zijn-slecht-voor-tinnitus-bijwerkingen)
+<!-- .element: style="font-size: 70%" -->
 
 ---
 
@@ -220,13 +251,14 @@ Bronnen: Thuisarts.nl, [stichting hoormij](https://www.stichtinghoormij.nl/items
 
 - Cerumenlavage
 - (Otrivin bij) verkoudheid
-- Medicatie
+- Medicatie nagaan
 
 ---
 
 ## Wie verwijzen
 
 - Bij afwezigheid van otoscopische afwijkingen
+
   - <6 jaar verwijzen naar audiologisch centrum (of kno arts)
   - ≥6 jaar audiometrie afwijkend bij verlies van ≥ 30 dB bij 1000, 2000 en 4000Hz
 
@@ -262,6 +294,8 @@ Verwijzing naar Medische Psychologie of GGZ waar CGT voor SOLK wordt gegeven, in
   - Verzekerde zorg: uitgebreide diagnostiek, niet-commercieel advies
   - Ook tinnituszorg, begeleiding bij omgaan met slechthorendheid etc.
 
+<!-- .element: style="font-size: 65%" -->
+
 Note:
 
 Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20Sorgdrager%20en%20Schriemer%20webversie.pdf)
@@ -283,7 +317,8 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 - Geluidsverrijkende therapie
 - Cochleaire implantatie
 - rTMS -> neen
-- TDCS -> niet doen
+- TDCS -> niet doen <sup>6</sup>
+- Adviseer geen alternatieve therapieën
 
 Note:
 
@@ -315,13 +350,11 @@ Verricht bij patiënten met tinnitus geen transcranial direct current stimulatio
 
 Adviseer geen alternatieve therapieën, zoals Gingko biloba, acupunctuur, auditieve perceptuele training of hyperbare zuurstof.
 
-Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/behandeling_van_patienten_met_tinnitus.html)
-
 ---
 
 ## Onderzoek
 
-- Cochrane
+- Cochrane's ([Betahistine](https://www.cochrane.org/CD013093/ENT_betahistine-tinnitus), [Sound therapy](https://www.cochrane.org/CD013094/ENT_sound-therapy-using-amplification-devices-or-sound-generators-tinnitus), [Zinc](https://www.cochrane.org/CD009832/ENT_zinc-supplements-tinnitus), [Ginkgo Biloba](https://www.cochrane.org/CD003852/ENT_ginkgo-biloba-for-tinnitus), [Antidepressants](https://www.cochrane.org/CD003853/ENT_antidepressants-for-patients-with-tinnitus))
 - [TNI](https://tinnitusresearch.net/)
 
 ---
@@ -336,6 +369,9 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 - Andere suggesties
   - Muziek
   - Andere achtergrondsgeluiden (klok, wind, zee of verkeer)
+- Geen alternatieve geneeskunde
+
+<!-- .element: style="font-size: 80%" -->
 
 ===
 
@@ -360,21 +396,51 @@ Note:
 
 ## Richtlijn NVAB (2019)
 
-[Is in de maak](https://nvab-online.nl/richtlijnen/richtlijnen-NVAB). Uit een [presentatie](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20Sorgdrager%20en%20Schriemer%20webversie.pdf) die online staat lijkt het erop dat bedrijfsartsen meer willen screening bij risicoberoepen en dan zelf verwijzen.
+[Is in de maak](https://nvab-online.nl/richtlijnen/richtlijnen-NVAB). Uit een [presentatie](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20Sorgdrager%20en%20Schriemer%20webversie.pdf) die online staat lijkt het erop dat bedrijfsartsen meer willen screening bij risicoberoepen en dan zelf verwijzen. <sup>10</sup>
 
 ---
 
 ## Take home
 
-- Ook denken aan het tegelijkertijd bestaan van slechthorendheid.
-- Medicatie
+- Denken aan het tegelijkertijd bestaan van slechthorendheid.
+
+===
+
+## Wat vraag je
+
+- Lijdensdruk
+- Alarmsymptomen
+
+===
+
+## Wat doe je
+
+- Lichamelijk onderzoek
+- Verwijzing KNO-arts
+- Verwijzing audiologisch centrum
+- Verwijzing SOLK
+- Verwijzing audicien
+
+===
+
+## Wat vertel je een patiënt
+
+- Uitleg over ontstaan
+- Tinnitus zal niet verbeteren, coping kan wel
 
 ---
 
 ## Literatuur
 
-- Richtlijn Tinnitus (2016)
-- Richtlijjnendatabase
-- NVAB
+1. Stichting Hoormij
+2. Mayo clinics, tinnitus (plaatje slide 5)
+3. Oliver Sacks - Musicophilia
+4. Chia EM, Wang JJ, Rochtchina E, Cumming RR, Newall P, Mitchell P. Hearing impairment and health-related quality of life: the Blue Mountains Hearing Study. Ear Hear. 2007;28(2):187-95.
+5. Nivel indicentie en prevalatentie oorsuizen/tinnitus (2017)
+6. Richtlijn Tinnitus NVKNO, (2016)
+7. [NTVG, polssynchrone pulsatiele tinnitus](https://www.ntvg.nl/artikelen/wat-de-oorzaak-van-polssynchroon-oorsuizen-bij-ouderen-en-er-behandeling-mogelijk/volledig)
+8. [Lijst met medicatie met oor bijwerkingen](https://www.kno-arts-amsterdam.nl/index.php/folders/bijwerkingen-medicijnen/medicijnen-met-oor-bijwerkingen/)
+9. Thuisarts.nl [tinnitus](https://www.thuisarts.nl/oorsuizen/ik-heb-last-van-oorsuizen)
+10. [NVAB](https://nvab-online.nl/richtlijnen/richtlijnen-NVAB)
 
-<!-- .element: style="font-size: 65%" -->
+<!-- .element: style="font-size: 50%" -->
