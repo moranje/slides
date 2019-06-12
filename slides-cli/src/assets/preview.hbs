@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Slideshows</title>
-    {{!-- equalize output from build and build-all commands --}}
-    <link rel="stylesheet" href="./_assets/dist/slides/slides.css" id="theme" />
-  </head>
 
-  <body>
-  {{#each projects}}
-    <a href="{{this.url}}/">
-      <div class="card" >
-        <h1 class="title">{{this.name}}</h1>
-      </div>
-    </a>
+<head>
+  <meta charset="utf-8" />
+  <title>Slideshows</title>
+  {{!-- equalize output from build and build-all commands --}}
+  <link rel="stylesheet" href="./_assets/dist/slides/slides.css" id="theme" />
+</head>
+
+<body>
+  <section class="container flex flex-wrap">
+    {{#each projects}}
+      <a href="{{this.url}}/">
+        <div class="max-w-sm rounded overflow-hidden shadow-md bg-white p-12 m-5 transition-fast hover:translate-r-2px">
+          <div class="px-6 py-4">
+            <div class="font-bold text-xl mb-2">{{this.name}}</div>
+          </div>
+        </div>
+      </a>
   {{/each}}
-  </body>
+  </section>
+</body>
+
 </html>

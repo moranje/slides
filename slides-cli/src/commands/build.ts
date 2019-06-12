@@ -1,5 +1,9 @@
 import {Command} from '@oclif/command'
+import * as nodemon from 'nodemon'
+import opn from 'opn'
 import * as shell from 'shelljs'
+
+import BuildAll from './build-all'
 
 export default class Build extends Command {
   static description = 'build a slideshow from markdown'
@@ -9,22 +13,25 @@ export default class Build extends Command {
   async run() {
     const {args} = this.parse(Build)
 
-    shell.mkdir('-p', 'dist/slides')
-    shell.cp(
-      'slides-cli/src/assets/slides.css',
-      'dist/slides/slides.css'
-    )
-    shell.exec(
-      `npx nodemon -w presentations/${
-        args.project
-      } -e md -x \"npx reveal-md presentations/${
-        args.project
-      }/index.md --css=dist/slides/slides.css --static presentations/${
-        args.project
-      }/dist\" --ignore presentations/${args.project}/dist/`
-    )
-    shell.rm(`presentations/${args.project}dist/index.html`)
+    nodemon({
+      watch: [
+        `presentations/${args.project}`
+      ],
+      ext: 'md'
+    })
 
-    this.warn('Something went wrong')
+    nodemon.on('start', async () => {
+      await BuildAll.run()
+      shell.exec('npx serve dist')
+      opn(`http://localhost:5000/${args.project}`)
+    }).on('restart', async (files: any) => {
+      console.log('App has restarted', files)
+      await BuildAll.run()
+    }).on('quit', () => {
+      console.log('App has quit')
+      process.exit()
+    })
+
+    nodemon.emit('start')
   }
 }

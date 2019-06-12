@@ -27,7 +27,7 @@ export default class BuildAll extends Command {
     shell.exec('npx reveal-md presentations/ --css=dist/slides/slides.css --static dist')
 
     shell.rm('dist/index.html')
-    shell.exec(`echo "${template({projects})}" > dist/index.html`, {
+    shell.exec(`echo '${template({projects})}' > dist/index.html`, {
       silent: true
     })
 

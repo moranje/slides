@@ -16,10 +16,12 @@
     "preinstall": "cd slides-cli && npm install && cd .."
   },
   "devDependencies": {
-    "handlebars": "4.1.0",
-    "nodemon": "1.18.10",
-    "oclif": "1.12.10",
-    "reveal-md": "3.0.1",
-    "serve": "10.1.2"
+    "@oclif/plugin-autocomplete": "0.1.1",
+    "handlebars": "4.1.2",
+    "nodemon": "1.19.1",
+    "oclif": "1.13.2",
+    "opn": "6.0.0",
+    "reveal-md": "3.0.4",
+    "serve": "11.0.1"
   }
 }
