@@ -105,7 +105,7 @@ Prevalentie: 17325200 / 1000 * 6,7 = 116079
 - Subjectieve tinnitus
 - Omschrijving
 
-> Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluiteds, suizend <sup>6</sup>
+> Sissend, rinkelend, pulserend, zoemend, klikkend, krakend, tonaal (zoals een beltoon of andere tonen), hummend, ploppend, loeien vd wind, ruizend, typemachine, fluitend, suizend <sup>6</sup>
 
 <!-- .element: style="font-size: 75%" -->
 
@@ -117,33 +117,13 @@ Objectief: Hierbij valt te denken aan een geluid van cardiovasculaire, musculair
 
 ## Anamnese
 
-- Duur, ernst en beloop van de klachten
+- Duur, ernst en beloop van de klachten (werk, sociaal)
 - Enkel- of dubbelzijdig
 - Oorpijn, jeuk, otorroe of verstopt gevoel
-- Voorgeschiedenis
-  - BLWI/ Otitiden/ verstopte oren
-  - Oorchirurgie
-  - TV perforaties
-  - Meningitis
-  - Bof
+- Medicatie
+- Alarmsymptomen
 
-<!-- .element: style="font-size: 70%" -->
-
-===
-
-## Anamnese
-
-- FA
-- Werk, lawaaierige omgeving, gebruik oortelefoons of gehoorbescherming
-- Traumata
-- Ototoxiciteit: aminoglycoside, kinine of cytostatica
-- Draaiduizeligheid, misselijkheid of oorsuizen
-- Invloed op sociale leven
-- Kinderen:
-  - Zwangerschap (CMV of rubella)
-  - Uitlsag gehoorscreening
-
-<!-- .element: style="font-size: 70%" -->
+<!-- .element: class="fragment" -->
 
 ---
 
@@ -162,16 +142,12 @@ Bronnen: [TQ](https://richtlijnendatabase.nl/gerelateerde_documenten/bijlage/013
 ## Otoscopie
 
 - Cerumenprop of otorroe?
-- zwelling, schilfering, roodheid, vesiculae of erosies van de gehoorgang;
-- kleur, doorschijnendheid, lichtreflectie en perforatie van trommelvlies;
-- aanwezigheid van vloeistofspiegel of luchtbel(len) achter trommelvlies;
-- retroauriculaire regio: littekens, roodheid en zwelling.
+- zwelling, schilfering, roodheid, vesiculae of erosies van de gehoorgang
+- kleur, doorschijnendheid, lichtreflectie en perforatie van trommelvlies
+- aanwezigheid van vloeistofspiegel of luchtbel(len) achter trommelvlies
+- retroauriculaire regio: littekens, roodheid en zwelling
 
-<!-- .element: style="font-size: 80%" -->
-
-Note:
-
-Skip?
+<!-- .element: class="fragment" style="font-size: 80%" -->
 
 ===
 
@@ -190,10 +166,6 @@ Bij de fluisterspraaktest fluistert de huisarts op oorhoogte achter jouw rug (om
 ===
 
 <!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/rinne-en-weber.png" data-background-size="contain" -->
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
 
 ---
 
@@ -231,6 +203,10 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 
 ---
 
+<!-- .slide: data-background="https://raw.githubusercontent.com/moranje/slides/master/presentations/tinnitus/images/onderzoek-polssynchroon-oorsuizen.png" data-background-size="contain" -->
+
+---
+
 ## Medicatie
 
 - Acetylsalicylzuur
@@ -239,7 +215,7 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 - Lisdiuretica (furosemide)
 - Amlodipine
 - Atorvastatine
-- oa Lariam
+- oa Lariam (anti-malaria)
 - Chemotherapie
 - NSAID (Naproxen, Diclofenac, Arcoxia, Arthrotec) <sup>[8](https://www.kno-arts-amsterdam.nl/index.php/folders/bijwerkingen-medicijnen/medicijnen-met-oor-bijwerkingen/)</sup>
 
@@ -252,17 +228,6 @@ Bron: [Richtlijnendatabese](https://richtlijnendatabase.nl/richtlijn/tinnitus/be
 - Cerumenlavage
 - (Otrivin bij) verkoudheid
 - Medicatie nagaan
-
----
-
-## Wie verwijzen
-
-- Bij afwezigheid van otoscopische afwijkingen
-
-  - <6 jaar verwijzen naar audiologisch centrum (of kno arts)
-  - ≥6 jaar audiometrie afwijkend bij verlies van ≥ 30 dB bij 1000, 2000 en 4000Hz
-
-- Lab op indicatie (anemie of stress): Hb, TSH
 
 ---
 
@@ -313,14 +278,11 @@ Bron: [NVAB](https://nvab-online.nl/sites/default/files/bg-dagen/BG2019%2016%20S
 ## Behandelingen
 
 - TRT
-- Tinnitis specieke CGT of SOLK CGT
 - Geluidsverrijkende therapie
+- Tinnitis specieke CGT of SOLK CGT
 - Cochleaire implantatie
-- rTMS -> neen
-- TDCS -> niet doen <sup>6</sup>
-- Adviseer geen alternatieve therapieën
+- Adviseer geen alternatieve therapieën <sup>6</sup>
 
-<!-- .element: style="font-size: 80%" -->
 
 Note:
 
@@ -377,7 +339,6 @@ Adviseer geen alternatieve therapieën, zoals Gingko biloba, acupunctuur, auditi
 
 ===
 
-- Medicijn bijwerking
 - Gehoortoestel
 - ‘Tinnititus hoortoestel’
 - Werkenden
