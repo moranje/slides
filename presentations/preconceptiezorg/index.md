@@ -39,7 +39,7 @@ MARTIEN ORANJE
 4. Als je oppnent zijn standpunt afdoende verdedigt, wordt het aangenomen.
 5. Formuleer zo helder en concreet mogelijk. Onderbouw met feiten waar mogelijk.
 
-<!-- .element: style="font-size: 80%" -->
+<!-- .element: style="font-size: 65%" -->
 
 De discusie eindigd als wij het eens zijn, er geen tegenargumenten meer zijn of als > 50% de interesse verliest
 
