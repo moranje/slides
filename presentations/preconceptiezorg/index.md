@@ -31,6 +31,20 @@ MARTIEN ORANJE
 
 ---
 
+## Spelregels
+
+1. Iedereen is vrij een standpunt of twijfel in te brengen.
+2. Als je een standpunt inbrengt, ben je verplicht het te verdedigen.
+3. Als je het standpunt niet kunt verdedigen, moet je het intrekken.
+4. Als je oppnent zijn standpunt afdoende verdedigt, wordt het aangenomen.
+5. Formuleer zo helder en concreet mogelijk. Onderbouw met feiten waar mogelijk.
+
+<!-- .element: style="font-size: 80%" -->
+
+De discusie eindigd als wij het eens zijn, er geen tegenargumenten meer zijn of als > 50% de interesse verliest
+
+---
+
 ## 1 - Preconceptiezorg is in principe op indicatie, verantwoordelijkheid bij de patient
 
 ---
