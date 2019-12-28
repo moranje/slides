@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Preconceptiezorg</title>
+    <link rel="stylesheet" href="./../css/reveal.css" />
+    <link rel="stylesheet" href="./../css/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="./../css/highlight/zenburn.css" />
+    <link rel="stylesheet" href="./../css/print/paper.css" type="text/css" media="print" />
+    <link rel="stylesheet" href="./../_assets/dist/slides/slides.css" />
+
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template">
+
+# Preconceptiezorg
+
+MARTIEN ORANJE
+</script></section><section  data-markdown><script type="text/template">
+## Preconceptiezorg
+
+[Video](https://player.vimeo.com/video/241847525)
+</script></section><section  data-markdown><script type="text/template">
+## Kahoot
+
+[Linkje](https://play.kahoot.it/v2/?quizId=accc1313-5eed-4234-b7e7-fa450d12ffd4)
+</script></section><section  data-markdown><script type="text/template">
+## Spelregels
+
+1. Iedereen is vrij een standpunt of twijfel in te brengen.
+2. Als je een standpunt inbrengt, ben je verplicht het te verdedigen.
+3. Als je het standpunt niet kunt verdedigen, moet je het intrekken.
+4. Als je oppnent zijn standpunt afdoende verdedigt, wordt het aangenomen.
+5. Formuleer zo helder en concreet mogelijk. Onderbouw met feiten waar mogelijk.
+
+<!-- .element: style="font-size: 65%" -->
+
+De discusie eindigd als wij het eens zijn, er geen tegenargumenten meer zijn of als > 50% de interesse verliest
+</script></section><section  data-markdown><script type="text/template">
+## 1 - Preconceptiezorg is in principe op indicatie, verantwoordelijkheid bij de patient
+</script></section><section  data-markdown><script type="text/template">
+## 2 - Het preconceptieve consult moet bij een verloskundige of gynaecoloog plaatsvinden
+</script></section><section  data-markdown><script type="text/template">
+## 3 - Ouders zouden programmatisch moeten worden opgeroepen voor preconceptiezorg
+</script></section><section  data-markdown><script type="text/template">
+## 4 - Het preconceptieve consult moet direct worden ingepland bij stellen van relevante diagnoses
+</script></section><section  data-markdown><script type="text/template">
+## 5 - De huisarts moet lager opgeleiden en allochtonen actief uitnodigen voor preconceptiezorg
+</script></section><section  data-markdown><script type="text/template">
+## 6 - Ouders worden gelukkiger van het krijgen van een kind
+</script></section><section  data-markdown><script type="text/template">
+## Take Home
+
+![](images/take-home.png)
+</script></section><section  data-markdown><script type="text/template">
+## Literatuur
+
+- NHG-Standaard Preconceptiezorg
+- NHG-Standaard Zwangerschap en kraamperiode
+- Preconceptie Indicatie Lijst (PIL) ‘Multidisciplinaire samenwerkingsafspraken’
+- Zwangerwijzer
+</script></section></div>
+    </div>
+
+    <script src="./../js/reveal.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // Optional libraries used to extend on reveal.js
+      var deps = [
+        { src: './../plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+        { src: './../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: './../plugin/zoom-js/zoom.js', async: true },
+        { src: './../plugin/notes/notes.js', async: true },
+        { src: './../plugin/math/math.js', async: true }
+      ];
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        dependencies: deps
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal.getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"controls":true,"transition":"slide","slideNumber":true,"history":true,"overview":true,"showNotes":false,"center":true}, queryOptions);
+    </script>
+
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
