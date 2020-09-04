@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@oclif/plugin-autocomplete": "0.1.2",
-    "handlebars": "4.1.2",
+    "handlebars": "4.4.5",
     "nodemon": "1.19.1",
     "oclif": "1.13.5",
     "opn": "6.0.0",
